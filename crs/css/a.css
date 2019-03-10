@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	color:white;
+  width: 500px;
+  margin:0 auto;
+  padding:0px;
+  background-color: black;
+  padding: 0px 20px 20px 20px;
+  padding-bottom:20px;
+  border: 10px solid white;
+}
+#vv{
+	background-image: url(https://steamusercontent-a.akamaihd.net/ugc/920298038395899327/FE5540557628DE05320233D6B9A8B3F7B68F352A/);
+  background-position:center;
+  background-size:cover;
+  height:100vh;
+}
